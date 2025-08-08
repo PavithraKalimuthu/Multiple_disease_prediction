@@ -2,6 +2,12 @@
 
 This Streamlit-based web application allows users to predict the likelihood of **Kidney Disease**, **Liver Disease**, and **Parkinson’s Disease** based on clinical and diagnostic inputs. Each disease model is hosted in a separate tab for user convenience.
 
+## 🚀 Demo
+
+Live App: [Click to Visit](https://multiplediseaseprediction-abcd123.streamlit.app/)  
+
+
+---
 
 ## 📊 Features
 
@@ -21,7 +27,7 @@ This Streamlit-based web application allows users to predict the likelihood of *
 | Frontend     | Streamlit (Python)        |
 | Backend      | Python, Pickle            |
 | ML Models    | Random Forest, XGBoost, etc. |
-
+| Deployment   | Streamlit Cloud           |
 
 ---
 
