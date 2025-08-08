@@ -2,4 +2,6 @@ streamlit
 scikit-learn
 pandas
 numpy
-pickle
+xgboost
+imbalanced-learn
+matplotlib
